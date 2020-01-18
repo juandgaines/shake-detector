@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shake Detector</string>
+    <string name="no_accelerometer_message">Phone must have accelerometer in order to use the app</string>
+    <string name="shake_detected">Shake detected!</string>
+    <string name="shake_me">Shake me!</string>
+    <string name="ok">Ok</string>
+</resources>
